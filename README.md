@@ -1,6 +1,9 @@
 # Optimized Job Selector for FiveM
 
-This script is an optimized version of `if-jobselectorv1`, originally developed by @deamonalex for Paradise Island RP. It has been enhanced for better performance, security, and user experience in job selection within the FiveM platform.
+This script is an optimized version of `if-jobselectorv1`,
+
+This version was developed by @deamonalex for Paradise Island RP. 
+It has been enhanced for better performance, security, and user experience in job selection within the FiveM platform.
 
 ## Original Script Support
 Support for the original script can be found at [IF-Developments Discord](https://discord.gg/if-developments). 
