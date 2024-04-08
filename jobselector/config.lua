@@ -17,9 +17,9 @@ Config.JobsList = {
     {
        title = "Taxi",
        img = "job-logo-taxi.png",
-       lvl = "2 LVL",
+       lvl = "1",
        time = "1h",
-       players = "2 Players",
+       players = "1 Driver",
        jobdescription = "Drive locals and Civs to locations all over Los Santos.",
        titleimg1 = "taxi-exp.png",
        titleimg2 = "taxi-exp2.png",
@@ -32,9 +32,9 @@ Config.JobsList = {
     {
        title = "Bus Driver",
        img = "job-logo-bus.png",
-       lvl = "2 LVL",
+       lvl = "1",
        time = "1h",
-       players = "5 Players",
+       players = "1 Driver",
        jobdescription = "Drive bus routes all over Los Santos.",
        titleimg1 = "job-logo-bus.png",
        titleimg2 = "busdriver2.png",
@@ -60,5 +60,5 @@ Config.JobsList = {
        jobselectortitle = "JOB SELECTOR",
        jobselectortext = "Trucker",
     }
-    -- You can add more jobs here following the same structure
+    -- add more jobs here
 }
