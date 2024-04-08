@@ -5,6 +5,8 @@ This script is an optimized version of `if-jobselectorv1`,
 This version was developed by @deamonalex for Paradise Island RP. 
 It has been enhanced for better performance, security, and user experience in job selection within the FiveM platform.
 
+THIS VERSION IS FOR QB-CORE ONLY
+
 ## Original Script Support
 Support for the original script can be found at [IF-Developments Discord](https://discord.gg/if-developments). 
 
@@ -36,8 +38,7 @@ While there is no official support for this version, community contributions and
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Acknowledgements
-
-- Thanks to @deamonalex for the original `if-jobselectorv1` script.
+- @30Pio (the original creator of this script)
 - Paradise Island RP community for testing and feedback.
 
 
