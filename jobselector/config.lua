@@ -16,7 +16,7 @@ Config.Location = {
 Config.JobsList = {
     {
        title = "Taxi",
-       img = "taxi2.png",
+       img = "job-logo-taxi.png",
        lvl = "2 LVL",
        time = "1h",
        players = "2 Players",
